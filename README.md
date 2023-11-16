@@ -6,7 +6,7 @@ Flutter plugin to handle Gps state
 
 Add in your pubspec.yaml 
 
-```dart
+```yaml
 flutter_gps_manager:
   git:
     url: git@github.com:Navideck/flutter_gps_manager.git
